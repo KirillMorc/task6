@@ -94,7 +94,7 @@ class Program
             }
         }
 
-        Console.WriteLine($"\nКоличество клеток суши: {landCount}");
+        Console.WriteLine($"Количество клеток суши: {landCount}");
 
         // Находим максимальную ценность среди морских клеток.
         int maxSeaGold = -1;
